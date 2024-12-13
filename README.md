@@ -16,3 +16,5 @@ BMI: The body mass index (weight in kg/(height in m)^2).
 Diabetes Pedigree Function: A function that scores the likelihood of diabetes based on family history.
 Age: The age of the individual (years).
 Outcome: A binary variable indicating whether the individual has diabetes (1) or not (0).
+
+for the app <h1>Click this https://diabetesclassificationrandomforest-e5z3qiawrehcfpwybtce4j.streamlit.app/<h1/>
